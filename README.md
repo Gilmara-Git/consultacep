@@ -14,6 +14,7 @@
 
 ## Motivation
 Learn how to create an API request using Ajax, add the event "readystatechange" to it, analyze its "stauts", "readyState" and get its "response".
+Used a 'lib' to manipulate DOM elements.
 
 ## API used:
 [ApiCep](https://apicep.com/api-de-consulta/)
@@ -23,6 +24,7 @@ Learn how to create an API request using Ajax, add the event "readystatechange" 
 - Css3 
 - JS
 - Ajax
+- Lib DOM
 
 ## To clone: 
 
