@@ -2,7 +2,7 @@
   "use strict";
 
   function app() {
-    debugger
+ 
     let $form = new DOM("#form");
     let $cepInput = new DOM("#form form input");
     let $addressField = new DOM('[data-js="street"]');
